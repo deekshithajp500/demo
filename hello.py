@@ -1,5 +1,6 @@
 /*addition of two numbers*/
 a=10;
 b=20;
-print("sum is"+a+b);
+s=a+b;
+print("sum is"+s);
 print("bye");
