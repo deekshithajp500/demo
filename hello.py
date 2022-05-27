@@ -2,5 +2,5 @@
 a=10;
 b=20;
 s=a+b;
-print("sum is"+s);
+print("addition is"+sum);
 print("bye");
